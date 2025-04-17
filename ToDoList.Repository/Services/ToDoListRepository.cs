@@ -14,33 +14,6 @@ public class ToDoListRepository : IToDoListRepository
     }
 
 
-    //    int pageNumber = 2; // qaysi sahifa kerak
-    //    int pageSize = 10;  // har bir sahifada nechta element bo‘ladi
-    //    int offset = (pageNumber - 1) * pageSize;
-
-    //    string query = @"SELECT * FROM Students
-    //                 ORDER BY StudentId
-    //                 OFFSET @Offset ROWS
-    //                 FETCH NEXT @PageSize ROWS ONLY;";
-
-    //using (SqlConnection connection = new SqlConnection("your_connection_string"))
-    //using (SqlCommand command = new SqlCommand(query, connection))
-    //{
-    //    command.Parameters.AddWithValue("@Offset", offset);
-    //    command.Parameters.AddWithValue("@PageSize", pageSize);
-
-    //    connection.Open();
-    //    using (SqlDataReader reader = command.ExecuteReader())
-    //    {
-    //        while (reader.Read())
-    //        {
-    //            // Ma'lumotlarni o'qish
-    //            Console.WriteLine(reader["StudentName"]);
-    //        }
-    //    }
-    //}
-
-
 
     public async Task<long> AddToDoListAsync(ToDoListEntity toDoList)
     {
@@ -259,6 +232,9 @@ public class ToDoListRepository : IToDoListRepository
             using (var cmd = new SqlCommand("UpdateToDoList", conn))
             {
                 cmd.CommandType = CommandType.StoredProcedure;
+
+
+                
 
                 cmd.Parameters.AddWithValue("@Title", toDoList.Title);
                 cmd.Parameters.AddWithValue("@Id", toDoList.Id);
