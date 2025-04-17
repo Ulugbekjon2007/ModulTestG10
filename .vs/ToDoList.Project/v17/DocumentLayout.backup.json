@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\G10\\G10Imtihon\\G10Imtihon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{932B278E-4B1E-461B-BE52-9609743BDBAB}|ToDoList.Project\\ToDoList.Project.csproj|d:\\g10\\g10imtihon\\g10imtihon\\todolist.project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932B278E-4B1E-461B-BE52-9609743BDBAB}|ToDoList.Project\\ToDoList.Project.csproj|solutionrelative:todolist.project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932B278E-4B1E-461B-BE52-9609743BDBAB}|ToDoList.Project\\ToDoList.Project.csproj|d:\\g10\\g10imtihon\\g10imtihon\\todolist.project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{932B278E-4B1E-461B-BE52-9609743BDBAB}|ToDoList.Project\\ToDoList.Project.csproj|solutionrelative:todolist.project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{308B310B-F4A9-4706-9DC4-E4BEBFCEBCFD}|ToDoList.Repository\\ToDoList.Repository.csproj|d:\\g10\\g10imtihon\\g10imtihon\\todolist.repository\\todolist.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{308B310B-F4A9-4706-9DC4-E4BEBFCEBCFD}|ToDoList.Repository\\ToDoList.Repository.csproj|solutionrelative:todolist.repository\\todolist.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932B278E-4B1E-461B-BE52-9609743BDBAB}|ToDoList.Project\\ToDoList.Project.csproj|d:\\g10\\g10imtihon\\g10imtihon\\todolist.project\\todolist.project.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{932B278E-4B1E-461B-BE52-9609743BDBAB}|ToDoList.Project\\ToDoList.Project.csproj|solutionrelative:todolist.project\\todolist.project.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932B278E-4B1E-461B-BE52-9609743BDBAB}|ToDoList.Project\\ToDoList.Project.csproj|d:\\g10\\g10imtihon\\g10imtihon\\todolist.project\\configurations\\databaseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932B278E-4B1E-461B-BE52-9609743BDBAB}|ToDoList.Project\\ToDoList.Project.csproj|solutionrelative:todolist.project\\configurations\\databaseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 261,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\G10\\G10Imtihon\\G10Imtihon\\ToDoList.Project\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoList.Project\\Program.cs",
+              "ToolTip": "D:\\G10\\G10Imtihon\\G10Imtihon\\ToDoList.Project\\Program.cs",
+              "RelativeToolTip": "ToDoList.Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:35:59.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataBaseConfiguration.cs",
+              "DocumentMoniker": "D:\\G10\\G10Imtihon\\G10Imtihon\\ToDoList.Project\\Configurations\\DataBaseConfiguration.cs",
+              "RelativeDocumentMoniker": "ToDoList.Project\\Configurations\\DataBaseConfiguration.cs",
+              "ToolTip": "D:\\G10\\G10Imtihon\\G10Imtihon\\ToDoList.Project\\Configurations\\DataBaseConfiguration.cs",
+              "RelativeToolTip": "ToDoList.Project\\Configurations\\DataBaseConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:34:59.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoList.Project.http",
+              "DocumentMoniker": "D:\\G10\\G10Imtihon\\G10Imtihon\\ToDoList.Project\\ToDoList.Project.http",
+              "RelativeDocumentMoniker": "ToDoList.Project\\ToDoList.Project.http",
+              "ToolTip": "D:\\G10\\G10Imtihon\\G10Imtihon\\ToDoList.Project\\ToDoList.Project.http",
+              "RelativeToolTip": "ToDoList.Project\\ToDoList.Project.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-17T03:55:29.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoList.Repository.csproj",
+              "DocumentMoniker": "D:\\G10\\G10Imtihon\\G10Imtihon\\ToDoList.Repository\\ToDoList.Repository.csproj",
+              "RelativeDocumentMoniker": "ToDoList.Repository\\ToDoList.Repository.csproj",
+              "ToolTip": "D:\\G10\\G10Imtihon\\G10Imtihon\\ToDoList.Repository\\ToDoList.Repository.csproj",
+              "RelativeToolTip": "ToDoList.Repository\\ToDoList.Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T03:55:21.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\G10\\G10Imtihon\\G10Imtihon\\ToDoList.Project\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoList.Project\\appsettings.json",
+              "ToolTip": "D:\\G10\\G10Imtihon\\G10Imtihon\\ToDoList.Project\\appsettings.json",
+              "RelativeToolTip": "ToDoList.Project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T16:01:10.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

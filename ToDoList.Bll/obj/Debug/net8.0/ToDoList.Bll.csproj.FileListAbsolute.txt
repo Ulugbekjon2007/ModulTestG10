@@ -1,0 +1,53 @@
+D:\C# Projects\ToDoList\ExamPreparingTask\ToDoList.Bll\obj\Debug\net8.0\ToDoList.Bll.csproj.AssemblyReference.cache
+D:\C# Projects\ToDoList\ExamPreparingTask\ToDoList.Bll\obj\Debug\net8.0\ToDoList.Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\ToDoList\ExamPreparingTask\ToDoList.Bll\obj\Debug\net8.0\ToDoList.Bll.AssemblyInfoInputs.cache
+D:\C# Projects\ToDoList\ExamPreparingTask\ToDoList.Bll\obj\Debug\net8.0\ToDoList.Bll.AssemblyInfo.cs
+D:\C# Projects\ToDoList\ExamPreparingTask\ToDoList.Bll\obj\Debug\net8.0\ToDoList.Bll.csproj.CoreCompileInputs.cache
+D:\C# Projects\ToDoList\ExamPreparingTask\ToDoList.Bll\obj\Debug\net8.0\ToDoList.Bll.sourcelink.json
+D:\C# Projects\ToDoList\ExamPreparingTask\ToDoList.Bll\bin\Debug\net8.0\ToDoList.Bll.deps.json
+D:\C# Projects\ToDoList\ExamPreparingTask\ToDoList.Bll\bin\Debug\net8.0\ToDoList.Bll.dll
+D:\C# Projects\ToDoList\ExamPreparingTask\ToDoList.Bll\bin\Debug\net8.0\ToDoList.Bll.pdb
+D:\C# Projects\ToDoList\ExamPreparingTask\ToDoList.Bll\bin\Debug\net8.0\ToDoList.Dal.dll
+D:\C# Projects\ToDoList\ExamPreparingTask\ToDoList.Bll\bin\Debug\net8.0\ToDoList.Repository.dll
+D:\C# Projects\ToDoList\ExamPreparingTask\ToDoList.Bll\bin\Debug\net8.0\ToDoList.Dal.pdb
+D:\C# Projects\ToDoList\ExamPreparingTask\ToDoList.Bll\bin\Debug\net8.0\ToDoList.Repository.pdb
+D:\C# Projects\ToDoList\ExamPreparingTask\ToDoList.Bll\obj\Debug\net8.0\ToDoList.2F3DC01B.Up2Date
+D:\C# Projects\ToDoList\ExamPreparingTask\ToDoList.Bll\obj\Debug\net8.0\ToDoList.Bll.dll
+D:\C# Projects\ToDoList\ExamPreparingTask\ToDoList.Bll\obj\Debug\net8.0\refint\ToDoList.Bll.dll
+D:\C# Projects\ToDoList\ExamPreparingTask\ToDoList.Bll\obj\Debug\net8.0\ToDoList.Bll.pdb
+D:\C# Projects\ToDoList\ExamPreparingTask\ToDoList.Bll\obj\Debug\net8.0\ref\ToDoList.Bll.dll
+D:\G10\G10SafarovUlugbek\G10Imtihon\ToDoList.Bll\bin\Debug\net8.0\ToDoList.Bll.deps.json
+D:\G10\G10SafarovUlugbek\G10Imtihon\ToDoList.Bll\bin\Debug\net8.0\ToDoList.Bll.dll
+D:\G10\G10SafarovUlugbek\G10Imtihon\ToDoList.Bll\bin\Debug\net8.0\ToDoList.Bll.pdb
+D:\G10\G10SafarovUlugbek\G10Imtihon\ToDoList.Bll\bin\Debug\net8.0\ToDoList.Dal.dll
+D:\G10\G10SafarovUlugbek\G10Imtihon\ToDoList.Bll\bin\Debug\net8.0\ToDoList.Repository.dll
+D:\G10\G10SafarovUlugbek\G10Imtihon\ToDoList.Bll\bin\Debug\net8.0\ToDoList.Dal.pdb
+D:\G10\G10SafarovUlugbek\G10Imtihon\ToDoList.Bll\bin\Debug\net8.0\ToDoList.Repository.pdb
+D:\G10\G10SafarovUlugbek\G10Imtihon\ToDoList.Bll\obj\Debug\net8.0\ToDoList.Bll.csproj.AssemblyReference.cache
+D:\G10\G10SafarovUlugbek\G10Imtihon\ToDoList.Bll\obj\Debug\net8.0\ToDoList.Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\G10\G10SafarovUlugbek\G10Imtihon\ToDoList.Bll\obj\Debug\net8.0\ToDoList.Bll.AssemblyInfoInputs.cache
+D:\G10\G10SafarovUlugbek\G10Imtihon\ToDoList.Bll\obj\Debug\net8.0\ToDoList.Bll.AssemblyInfo.cs
+D:\G10\G10SafarovUlugbek\G10Imtihon\ToDoList.Bll\obj\Debug\net8.0\ToDoList.Bll.csproj.CoreCompileInputs.cache
+D:\G10\G10SafarovUlugbek\G10Imtihon\ToDoList.Bll\obj\Debug\net8.0\ToDoList.Bll.sourcelink.json
+D:\G10\G10SafarovUlugbek\G10Imtihon\ToDoList.Bll\obj\Debug\net8.0\ToDoList.2F3DC01B.Up2Date
+D:\G10\G10SafarovUlugbek\G10Imtihon\ToDoList.Bll\obj\Debug\net8.0\ToDoList.Bll.dll
+D:\G10\G10SafarovUlugbek\G10Imtihon\ToDoList.Bll\obj\Debug\net8.0\refint\ToDoList.Bll.dll
+D:\G10\G10SafarovUlugbek\G10Imtihon\ToDoList.Bll\obj\Debug\net8.0\ToDoList.Bll.pdb
+D:\G10\G10SafarovUlugbek\G10Imtihon\ToDoList.Bll\obj\Debug\net8.0\ref\ToDoList.Bll.dll
+D:\G10\G10Imtihon\G10Imtihon\ToDoList.Bll\bin\Debug\net8.0\ToDoList.Bll.deps.json
+D:\G10\G10Imtihon\G10Imtihon\ToDoList.Bll\bin\Debug\net8.0\ToDoList.Bll.dll
+D:\G10\G10Imtihon\G10Imtihon\ToDoList.Bll\bin\Debug\net8.0\ToDoList.Bll.pdb
+D:\G10\G10Imtihon\G10Imtihon\ToDoList.Bll\bin\Debug\net8.0\ToDoList.Dal.dll
+D:\G10\G10Imtihon\G10Imtihon\ToDoList.Bll\bin\Debug\net8.0\ToDoList.Repository.dll
+D:\G10\G10Imtihon\G10Imtihon\ToDoList.Bll\bin\Debug\net8.0\ToDoList.Dal.pdb
+D:\G10\G10Imtihon\G10Imtihon\ToDoList.Bll\bin\Debug\net8.0\ToDoList.Repository.pdb
+D:\G10\G10Imtihon\G10Imtihon\ToDoList.Bll\obj\Debug\net8.0\ToDoList.Bll.csproj.AssemblyReference.cache
+D:\G10\G10Imtihon\G10Imtihon\ToDoList.Bll\obj\Debug\net8.0\ToDoList.Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\G10\G10Imtihon\G10Imtihon\ToDoList.Bll\obj\Debug\net8.0\ToDoList.Bll.AssemblyInfoInputs.cache
+D:\G10\G10Imtihon\G10Imtihon\ToDoList.Bll\obj\Debug\net8.0\ToDoList.Bll.AssemblyInfo.cs
+D:\G10\G10Imtihon\G10Imtihon\ToDoList.Bll\obj\Debug\net8.0\ToDoList.Bll.csproj.CoreCompileInputs.cache
+D:\G10\G10Imtihon\G10Imtihon\ToDoList.Bll\obj\Debug\net8.0\ToDoList.2F3DC01B.Up2Date
+D:\G10\G10Imtihon\G10Imtihon\ToDoList.Bll\obj\Debug\net8.0\ToDoList.Bll.dll
+D:\G10\G10Imtihon\G10Imtihon\ToDoList.Bll\obj\Debug\net8.0\refint\ToDoList.Bll.dll
+D:\G10\G10Imtihon\G10Imtihon\ToDoList.Bll\obj\Debug\net8.0\ToDoList.Bll.pdb
+D:\G10\G10Imtihon\G10Imtihon\ToDoList.Bll\obj\Debug\net8.0\ref\ToDoList.Bll.dll
